@@ -1,0 +1,32 @@
+body
+{
+background-color: blue;
+}
+
+#score
+{
+    font-size: 30;
+   margin-left: 20px;
+}
+
+#timer
+{
+    font-size: 40;
+    float: right;
+    margin-right:20px;
+}
+
+#drawn{
+color: greenyellow;
+}
+
+#show_sketch
+{
+    float: right;
+}
+
+p,span
+{
+    padding-top: 10px;
+    font-size: 25px;
+}
